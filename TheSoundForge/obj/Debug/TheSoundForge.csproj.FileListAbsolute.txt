@@ -1,0 +1,27 @@
+c:\users\samhi\documents\visual studio 2015\Projects\TheSoundForge\TheSoundForge\bin\Debug\TheSoundForge.exe.config
+c:\users\samhi\documents\visual studio 2015\Projects\TheSoundForge\TheSoundForge\bin\Debug\TheSoundForge.exe
+c:\users\samhi\documents\visual studio 2015\Projects\TheSoundForge\TheSoundForge\bin\Debug\TheSoundForge.pdb
+c:\users\samhi\documents\visual studio 2015\Projects\TheSoundForge\TheSoundForge\obj\Debug\TheSoundForge.csprojResolveAssemblyReference.cache
+c:\users\samhi\documents\visual studio 2015\Projects\TheSoundForge\TheSoundForge\obj\Debug\TheSoundForge.Properties.Resources.resources
+c:\users\samhi\documents\visual studio 2015\Projects\TheSoundForge\TheSoundForge\obj\Debug\TheSoundForge.csproj.GenerateResource.Cache
+c:\users\samhi\documents\visual studio 2015\Projects\TheSoundForge\TheSoundForge\obj\Debug\TheSoundForge.exe
+c:\users\samhi\documents\visual studio 2015\Projects\TheSoundForge\TheSoundForge\obj\Debug\TheSoundForge.pdb
+c:\users\samhi\documents\visual studio 2015\Projects\TheSoundForge\TheSoundForge\obj\Debug\TheSoundForge.frmLogin.resources
+c:\users\samhi\documents\visual studio 2015\Projects\TheSoundForge\TheSoundForge\obj\Debug\TheSoundForge.frmSplash.resources
+C:\Users\samhi\Documents\Visual Studio 2015\Projects\TheSoundForge\TheSoundForge\obj\Debug\TheSoundForge.MDIPrincipal.resources
+C:\Users\samhi\Desktop\TheSoundForge\TheSoundForge\bin\Debug\TheSoundForge.exe.config
+C:\Users\samhi\Desktop\TheSoundForge\TheSoundForge\obj\Debug\TheSoundForge.exe
+C:\Users\samhi\Desktop\TheSoundForge\TheSoundForge\obj\Debug\TheSoundForge.pdb
+C:\Users\samhi\Desktop\TheSoundForge\TheSoundForge\bin\Debug\TheSoundForge.exe
+C:\Users\samhi\Desktop\TheSoundForge\TheSoundForge\bin\Debug\TheSoundForge.pdb
+C:\Users\samhi\Desktop\TheSoundForge\TheSoundForge\obj\Debug\TheSoundForge.csprojResolveAssemblyReference.cache
+C:\Users\samhi\Desktop\TheSoundForge\TheSoundForge\obj\Debug\TheSoundForge.frmConsulta.resources
+C:\Users\samhi\Desktop\TheSoundForge\TheSoundForge\obj\Debug\TheSoundForge.frmLogin.resources
+C:\Users\samhi\Desktop\TheSoundForge\TheSoundForge\obj\Debug\TheSoundForge.MDIPrincipal.resources
+C:\Users\samhi\Desktop\TheSoundForge\TheSoundForge\obj\Debug\TheSoundForge.frmSplash.resources
+C:\Users\samhi\Desktop\TheSoundForge\TheSoundForge\obj\Debug\TheSoundForge.Properties.Resources.resources
+C:\Users\samhi\Desktop\TheSoundForge\TheSoundForge\obj\Debug\TheSoundForge.csproj.GenerateResource.Cache
+C:\Users\samhi\Documents\Visual Studio 2015\Projects\TheSoundForge\TheSoundForge\obj\Debug\TheSoundForge.frmCadastroFun.resources
+C:\Users\samhi\Documents\Visual Studio 2015\Projects\TheSoundForge\TheSoundForge\obj\Debug\TheSoundForge.frmConsultaFun.resources
+C:\Users\samhi\Documents\Visual Studio 2015\Projects\TheSoundForge\TheSoundForge\obj\Debug\TheSoundForge.frmAlterFunc.resources
+C:\Users\samhi\Documents\Visual Studio 2015\Projects\TheSoundForge\TheSoundForge\obj\Debug\TheSoundForge.frmDelFunc.resources
